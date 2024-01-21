@@ -1,0 +1,24 @@
+{
+  "appName": {
+    "message": "Chrome Extension SDK"
+  },
+  "appDescription": {
+    "message": "It's default template for quickly starting a project."
+  },
+  "appVer": {
+    "message": "Version:"
+  },
+  "notifyInstallTitle":  {
+    "message": "Extension activated"
+  },
+  "notifyInstallDesc": {
+    "message": "$1 installed successfully."
+  },
+  "popupMainBtn": {
+    "message": "Primary button",
+    "description": "Basic bootstrap button with blue by default."
+  },
+  "popupDesc": {
+    "message": "Hello, here popup $1."
+  }
+}

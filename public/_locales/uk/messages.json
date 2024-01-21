@@ -1,0 +1,24 @@
+{
+  "appName": {
+    "message": "Chrome Extension SDK"
+  },
+  "appDescription": {
+    "message": "Це шаблон за замовчуванням для швидкого запуску проекту."
+  },
+  "appVer": {
+    "message": "Версія:"
+  },
+  "notifyInstallTitle":  {
+    "message": "Розширення активовано"
+  },
+  "notifyInstallDesc": {
+    "message": "Успішно встановлено $1."
+  },
+  "popupMainBtn": {
+    "message": "Основна кнопка",
+    "description": "Базова кнопка bootstrap з синім кольором за замовчуванням."
+  },
+  "popupDesc": {
+    "message": "Здравствуйте, здесь всплывающее окно $1."
+  }
+}
