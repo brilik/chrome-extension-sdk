@@ -29,6 +29,12 @@
     "{{chrome}}.service_worker": "src/background.ts",
     "{{firefox}}.scripts": ["src/background.ts"]
   },
+  "content_scripts": [{
+    "matches": ["https://*.example.com/*"],
+    "css": [],
+    "js": ["src/contentScript.ts"],
+    "run_at": "document_end"
+  }],
   "permissions": ["scripting", "activeTab", "notifications"],
   "default_locale": "en"
 }
