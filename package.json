@@ -1,7 +1,7 @@
 {
   "name": "chrome-extension-sdk",
   "description": "Chrome Extension SDK is default template for quickly starting a project.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "keywords": [
     "chromium",
