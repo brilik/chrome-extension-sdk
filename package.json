@@ -1,7 +1,7 @@
 {
   "name": "chrome-extension-sdk",
   "description": "Chrome Extension SDK is default template for quickly starting a project.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "keywords": [
     "chromium",
@@ -9,7 +9,9 @@
     "Chrome",
     "Firefox",
     "Edge",
-    "extensions"
+    "extensions",
+    "bootstrap 5",
+    "vite"
   ],
   "author": "Vitalii Bryl",
   "repository": {
@@ -25,6 +27,8 @@
   },
   "devDependencies": {
     "@types/webextension-polyfill": "^0.10.0",
+    "@typescript-eslint/eslint-plugin": "^6.20.0",
+    "@typescript-eslint/parser": "^6.20.0",
     "eslint": "^8.56.0",
     "eslint-config-semistandard": "^17.0.0",
     "eslint-config-standard": "^17.1.0",
